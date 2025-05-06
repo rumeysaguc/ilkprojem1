@@ -27,4 +27,6 @@ async def sifreuret(ctx):
 async def heh(ctx, count_heh = 5):
     await ctx.send("he" * count_heh)
 
+
+#GÜNCEL VERSİON
 bot.run("")
